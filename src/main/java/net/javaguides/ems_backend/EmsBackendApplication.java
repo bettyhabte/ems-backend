@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class EmsBackendApplication {
 	//updated ems application
+	//this is for new branch
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmsBackendApplication.class, args);
